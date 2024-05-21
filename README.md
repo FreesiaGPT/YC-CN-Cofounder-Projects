@@ -3,9 +3,13 @@ Y Combinator华人创始人项目汇总
 
 ## YC W24
 共计 249个项目入选，其中40个为华人联创项目
+
 个人感兴趣项目：
+
 NO.11 retell
+
 NO.14 heartbyte
+
 NO.30 Apriora
 
 |NO.|	company|	short intro|	what's differents|	website|	Total Funding Amount| 	linkedin page|
@@ -51,9 +55,11 @@ NO.30 Apriora
 |39|	Firebender|	迅速检索及整理销售线索	||	 https://firebender.com|	$500K	|https://www.linkedin.com/company/firebender-ai/
 |40|	Taiki	|税务API	|	| https://www.taiki.ai|	$500K	|https://www.linkedin.com/company/taikiai
 
+
 ## YC S23
 
 updating
+
 
 
 ## 欢迎参与
@@ -67,6 +73,7 @@ updating
 ⬇️扫码加我微信请注明来源⬇️
 
 ![1715096017083](https://github.com/FreesiaGPT/Embodied-AI/assets/101450741/e4afb630-9cf3-4c58-a4cb-d55eb84e67b1)
+
 
 ## 使用Usage
 **该文档不得用于商业用途，请严格遵守使用政策，如需转载引用，请注明出处。**
