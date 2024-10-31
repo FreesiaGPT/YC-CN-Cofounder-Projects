@@ -64,7 +64,7 @@ updating
 
 ## 欢迎参与
 
-信息来源：YC,CruncBase
+信息来源：YC,CrunchBase
 
 勘误：如果内容有误欢迎联系我修改 🤔
 
